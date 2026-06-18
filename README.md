@@ -63,3 +63,6 @@ Next.js &middot; Supabase &middot; LangGraph &middot; RAG pipelines &middot; Cla
 
 ## Find me
 [bhaskarthota.com](https://bhaskarthota.com) &middot; [LinkedIn](https://linkedin.com/in/bhaskar657) &middot; hello@bhaskarthota.com
+
+<!-- profile -->
+
