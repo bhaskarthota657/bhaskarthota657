@@ -66,3 +66,4 @@ Next.js &middot; Supabase &middot; LangGraph &middot; RAG pipelines &middot; Cla
 
 <!-- profile -->
 
+<!-- profile refresh 2026-06-22: re-trigger README surfacing after username rename -->
