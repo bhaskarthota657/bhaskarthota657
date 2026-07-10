@@ -55,6 +55,10 @@ Discovery to spec to prototype to ship. I would rather build a rough version and
 learn from it than argue about it in a doc. AI is a teammate in that loop, not a
 buzzword on the roadmap.
 
+The last month of that loop, measured:
+
+[![Bhaskar's AI coding usage on tokscale](https://tokscale.ai/api/embed/bhaskarthota657/svg?template=classic&color=blue&graph=1&theme=dark)](https://tokscale.ai/u/bhaskarthota657)
+
 ## Tools I build with
 Next.js &middot; Supabase &middot; LangGraph &middot; RAG pipelines &middot; Claude and GPT &middot; Python &middot; Vercel
 
